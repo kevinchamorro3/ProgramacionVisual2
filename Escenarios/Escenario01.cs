@@ -18,8 +18,8 @@ namespace Escenarios
             datos.Add(ListaTipo.Bancos, listaBancos);
             //datos caja
             Caja caja1 = new() {Nombre="Caja 1",Debe=16632,Haber= 16632,};
-            Caja caja2 = new() {Nombre="Caja 1",Debe=3360,Haber= 3360 };
-            Caja caja3 = new() {Nombre="Caja 1",Debe=4480,Haber= 0 };
+            Caja caja2 = new() {Nombre="Caja 2",Debe=3360,Haber= 3360 };
+            Caja caja3 = new() {Nombre="Caja 3",Debe=4480,Haber= 0 };
             List<Caja> listaCajas = new() { caja1, caja2, caja3 };
             datos.Add(ListaTipo.Cajas,listaCajas);
             //datos cliente

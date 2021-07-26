@@ -9,6 +9,7 @@
       "ProyectoFinalPG2-Chamorro/1.0.0": {
         "dependencies": {
           "Escenarios": "1.0.0",
+          "Info": "1.0.0",
           "Modelo": "1.0.0",
           "Persistencia": "1.0.0"
         },
@@ -1086,6 +1087,16 @@
           "Escenarios.dll": {}
         }
       },
+      "Info/1.0.0": {
+        "dependencies": {
+          "Escenarios": "1.0.0",
+          "Modelo": "1.0.0",
+          "Persistencia": "1.0.0"
+        },
+        "runtime": {
+          "Info.dll": {}
+        }
+      },
       "Modelo/1.0.0": {
         "runtime": {
           "Modelo.dll": {}
@@ -1798,6 +1809,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Escenarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Info/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

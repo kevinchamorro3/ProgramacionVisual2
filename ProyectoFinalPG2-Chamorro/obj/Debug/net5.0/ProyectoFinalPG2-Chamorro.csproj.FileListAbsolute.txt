@@ -73,3 +73,5 @@ C:\Users\Kevin\source\repos\ProyectoFinalPG2-Chamorro\ProyectoFinalPG2-Chamorro\
 C:\Users\Kevin\source\repos\ProyectoFinalPG2-Chamorro\ProyectoFinalPG2-Chamorro\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\Kevin\source\repos\ProyectoFinalPG2-Chamorro\ProyectoFinalPG2-Chamorro\bin\Debug\net5.0\Persistencia.dll.config
 C:\Users\Kevin\source\repos\ProyectoFinalPG2-Chamorro\ProyectoFinalPG2-Chamorro\obj\Debug\net5.0\ProyectoFinalPG2-Chamorro.csproj.CopyComplete
+C:\Users\Kevin\source\repos\ProyectoFinalPG2-Chamorro\ProyectoFinalPG2-Chamorro\bin\Debug\net5.0\Info.dll
+C:\Users\Kevin\source\repos\ProyectoFinalPG2-Chamorro\ProyectoFinalPG2-Chamorro\bin\Debug\net5.0\Info.pdb

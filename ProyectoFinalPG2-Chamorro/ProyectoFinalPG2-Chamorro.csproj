@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Escenarios\Escenarios.csproj" />
+    <ProjectReference Include="..\Info\Info.csproj" />
     <ProjectReference Include="..\Modelo\Modelo.csproj" />
     <ProjectReference Include="..\Persistencia\Persistencia.csproj" />
   </ItemGroup>

@@ -1543,6 +1543,21 @@
           "bin/placeholder/Escenarios.dll": {}
         }
       },
+      "Info/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Escenarios": "1.0.0",
+          "Modelo": "1.0.0",
+          "Persistencia": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Info.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Info.dll": {}
+        }
+      },
       "Modelo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -5872,6 +5887,11 @@
       "path": "../Escenarios/Escenarios.csproj",
       "msbuildProject": "../Escenarios/Escenarios.csproj"
     },
+    "Info/1.0.0": {
+      "type": "project",
+      "path": "../Info/Info.csproj",
+      "msbuildProject": "../Info/Info.csproj"
+    },
     "Modelo/1.0.0": {
       "type": "project",
       "path": "../Modelo/Modelo.csproj",
@@ -5886,6 +5906,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Escenarios >= 1.0.0",
+      "Info >= 1.0.0",
       "Modelo >= 1.0.0",
       "Persistencia >= 1.0.0"
     ]
@@ -5927,6 +5948,9 @@
           "projectReferences": {
             "C:\\Users\\Kevin\\source\\repos\\ProyectoFinalPG2-Chamorro\\Escenarios\\Escenarios.csproj": {
               "projectPath": "C:\\Users\\Kevin\\source\\repos\\ProyectoFinalPG2-Chamorro\\Escenarios\\Escenarios.csproj"
+            },
+            "C:\\Users\\Kevin\\source\\repos\\ProyectoFinalPG2-Chamorro\\Info\\Info.csproj": {
+              "projectPath": "C:\\Users\\Kevin\\source\\repos\\ProyectoFinalPG2-Chamorro\\Info\\Info.csproj"
             },
             "C:\\Users\\Kevin\\source\\repos\\ProyectoFinalPG2-Chamorro\\Modelo\\Modelo.csproj": {
               "projectPath": "C:\\Users\\Kevin\\source\\repos\\ProyectoFinalPG2-Chamorro\\Modelo\\Modelo.csproj"

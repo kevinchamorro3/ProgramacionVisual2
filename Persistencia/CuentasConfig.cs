@@ -6,7 +6,6 @@ namespace Persistencia
 {
     public class CuentasConfig
     {
-        public enum DestinoTipo { SQLServerProyecto, PostgresProyecto, MemoryProyecto };
         static string PersistenciaDestino;
         static string StringConnection;
 
