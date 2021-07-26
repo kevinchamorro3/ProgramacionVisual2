@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modelo.Cuentas.Banco">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAwAAAAAAgACAEgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\Banco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Caja">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgACAEgAAAAQAAAAAAAAAAEAABAAA=</HashCode>
+      <FileName>Cuentas\Caja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.CajaChica">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgACAEgAAAAQCAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\CajaChica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Capital">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAQAAAAAAgAAAAgAEAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\Capital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Cliente">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgADAEgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Corriente">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAAAAAAAQAAAAAAEAAAAgAAAAEAABQAABAAAA=</HashCode>
+      <FileName>Cuentas\Corriente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.DepreciacionEdificio">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgAAQAgAAABAAAQQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuentas\DepreciacionEdificio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.DepreciacionEquipos">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgIABAgAAAAAAAAQAAAAAAAEAAAAA=</HashCode>
+      <FileName>Cuentas\DepreciacionEquipos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.DocumentosCobrar">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgACAEgAAAAQAAAAAAAAAAEAAAAQA=</HashCode>
+      <FileName>Cuentas\DocumentosCobrar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.DocumentosPagar">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAggAQAAgAAAAQAAAAAAAAAAECAAAAA=</HashCode>
+      <FileName>Cuentas\DocumentosPagar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Edificio">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgAAQEgAAAAQAAAQAAAAAAGEAAAAA=</HashCode>
+      <FileName>Cuentas\Edificio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.EquiposOficina">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAAgIAAAgAAAAQAAAQAAAAAAWAAAAAA=</HashCode>
+      <FileName>Cuentas\EquiposOficina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Fijo">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAQAQAAAAACAAAAAQ=</HashCode>
+      <FileName>Cuentas\Fijo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.IeesPagar">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAggAQAAgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\IeesPagar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.ImpuestosPagar">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAggAQAIgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\ImpuestosPagar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.InteresesPagar">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAggAQAAgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\InteresesPagar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Inventario">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgCCAEgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\Inventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.IvaCobrado">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEggAQAAgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\IvaCobrado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.IvaPagado">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAAAgACAEgAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\IvaPagado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Patrimonio">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAA=</HashCode>
+      <FileName>Cuentas\Patrimonio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.PlazoCorto">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAAEAAAAAAQAAAAAAAAEAAEAAAAgAAAAAAAA=</HashCode>
+      <FileName>Cuentas\PlazoCorto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.PlazoLargo">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Cuentas\PlazoLargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.PrestamosBancarios">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAQAAAAAAgAAAAgCAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\PrestamosBancarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Proveedor">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAggAQAAgAAAAQAAAAAAAAAAEAAAIAA=</HashCode>
+      <FileName>Cuentas\Proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Suministros">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgACAEgAAAARAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cuentas\Suministros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Terreno">
+    <Position X="2.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgAAEAgAAAAQAAAQAAAAAAGAAAAAA=</HashCode>
+      <FileName>Cuentas\Terreno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.UtilidadEjercicio">
+    <Position X="4" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAQAAAAAAgAAAAgAAAAQAAAAAAAAAAEAAAEAA=</HashCode>
+      <FileName>Cuentas\UtilidadEjercicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Cuentas.Vehiculo">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQAAgAAAAgAAAAQAAAQAAAAAAGAAAAAA=</HashCode>
+      <FileName>Cuentas\Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
